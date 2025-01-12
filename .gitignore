@@ -1,0 +1,21 @@
+# Ignore o diretório do ambiente virtual
+venv/
+
+# Ignore arquivos do sistema
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore configurações do IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore arquivos de logs
+*.log
+
+# Ignore arquivos de cache
+.DS_Store
+Thumbs.db
